@@ -1,0 +1,23 @@
+name: Finest
+favicon: null
+layout_spectrum: 0.05830930266529322
+typography_spectrum: 0.48712413269095123
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.31158954673446715
+  lightness: 0.8415521846618503
+  saturation: 0.4723830008879304
+  rhythmicContrast: 0.7679077011998743
+purpose: []
